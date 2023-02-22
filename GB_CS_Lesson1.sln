@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example005_if_else", "Examp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example006_Base", "Example006_Base\Example006_Base.csproj", "{EFC10C42-E36A-4BB9-A31B-142598C924DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example007_Magic", "Example007_Magic\Example007_Magic.csproj", "{9C4EB834-1318-4552-9D96-95A276FADCA4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{EFC10C42-E36A-4BB9-A31B-142598C924DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EFC10C42-E36A-4BB9-A31B-142598C924DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EFC10C42-E36A-4BB9-A31B-142598C924DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C4EB834-1318-4552-9D96-95A276FADCA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C4EB834-1318-4552-9D96-95A276FADCA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C4EB834-1318-4552-9D96-95A276FADCA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C4EB834-1318-4552-9D96-95A276FADCA4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
